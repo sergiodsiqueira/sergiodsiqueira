@@ -1,12 +1,13 @@
 <img align="right" height="590em" src="https://github.com/sergiodsiqueira/sergiodsiqueira/blob/main/Profile.png"/>
-<h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Mayk Brito</h1>
+<h1 align="left">Olá, meu nome é Sérgio <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiodsiqueira&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+- 🔥 Desenvolvedor Sênior Delphi <br> 
+     (Desktop & Mobile (FMX), Api REST, POO, Clean Architecture, MVC, SOLID)
 
-- 🔭 I’m currently working at [Alterdata Software](https://github.com/Rocketseat)
+- 🔭 Atualmente trabalhando na [Alterdata Software](http://alterdata.software)
 
-- 👨‍💻 All of my projects are available at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 Alguns de meus projetos estão [sergiodsiqueira](https://github.com/sergiodsiqueira)
 
 - ▶️ I regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
 
