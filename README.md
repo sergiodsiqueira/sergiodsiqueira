@@ -15,8 +15,7 @@
 - 💬 Posso te ajudar em **Delphi, Python, HTML, SQL**
 
 - ♥️ Amo tecnologia e a minha família
-
-<br><br>
+<br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -35,14 +34,10 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
-
-<br><br>
+<br><br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
-
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=sergiodsiqueira&show_icons=true&theme=vision-friendly-dark" alt="sergiodsiqueira stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiodsiqueira&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+  <img width="500em" src="https://github-readme-stats.vercel.app/api?username=sergiodsiqueira&show&icons=true&layout=compact" alt="sergiodsiqueira stats"/>
+  <img width="395em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sergiodsiqueira&layout=compact" alt="sergiodsiqueira most languages"/>
 </p>
-
-<br><br>
