@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/sergiodsiqueira/sergiodsiqueira/blob/main/Profile.png"/>
+
 <h1 align="left">Bem-vindo ao meu Github <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergiodsiqueira&color=yellow" alt="Profile views" /> </p>
 
@@ -8,7 +8,7 @@
 - 💻 Atualmente trabalhando na [Softplan](http://softplan.com.br)
 
 - 📚 Atualmente me aprofundando no ecossistema Javascript <br>
-     `(Node.js, React, React Native e Vue.JS)`
+     `(Node.js, React, React Native e Next.js)`
 
 - 👨‍💻 Alguns projetos estão github/[sergiodsiqueira](https://github.com/sergiodsiqueira?tab=repositories)
 
